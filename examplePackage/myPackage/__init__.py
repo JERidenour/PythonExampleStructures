@@ -1,0 +1,2 @@
+import myPackage.mySubPackageA
+import myPackage.mySubPackageB
